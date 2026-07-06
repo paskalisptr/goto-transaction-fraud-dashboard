@@ -14,7 +14,7 @@ This project builds an analytics dashboard for a multi-service digital platform 
 - Revenue by service type: gosend, goride, tokopedia, gocar, gofood are within a narrow Rp0.75bn-0.76bn range, showing an even distribution of revenue across services (bar chart)
 - Transaction share by service type, each service holding roughly 20% of volume (donut chart)
 
-![Transaction Monitoring Dashboard](screenshots/transaction_monitoring.png)
+![Transaction Monitoring Dashboard](screenshoots/transaction_monitoring.png)
 
 **Page 2: Fraud Detection Analysis** (Fraud & Data Quality Monitoring)
 - Fraud rate by service type, ranging from 1.74% (goride) to 2.05% (gofood)
@@ -22,7 +22,7 @@ This project builds an analytics dashboard for a multi-service digital platform 
 - KPI cards: 969 outliers flagged, 1.94% outlier rate, 50K total transactions
 - Top 10 users by transaction count and revenue (table), led by user 22013 with 7 transactions totaling Rp526,056.67
 
-![Fraud Detection Dashboard](screenshots/fraud_detection.png)
+![Fraud Detection Dashboard](screenshoots/fraud_detection.png)
 
 ## Dataset
 
